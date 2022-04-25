@@ -1,0 +1,28 @@
+*{
+    font-family: sans-serif;
+}
+.class1 img{
+    margin: 0 400px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 2px solid #111224;
+}
+.class1{
+    text-align: center;
+    border-bottom: 2px solid aqua;
+}
+.p1{
+    color: chocolate;
+}
+.p2{
+    color: chocolate;
+}
+.p3{
+    color: chocolate;
+}
+body{
+    background-color:cornsilk;
+    
+
+}

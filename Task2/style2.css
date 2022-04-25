@@ -1,0 +1,41 @@
+*{
+    font-family: sans-serif;
+}
+.class1 img{
+  margin: 20px 80px;
+  border-radius: 100px;
+  width: 150px;
+  height: 150px;
+}
+.class2{
+    text-align: center;
+}
+.class3{
+    color:gray;
+    text-align: center;
+}
+.class4{
+    color:gray;
+    text-align: center;
+}
+button{
+    margin: 0 80px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif!important
+
+}
+
+body{
+    background-color:aquamarine;
+}
+.class{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    box-shadow: 5px 10px #888888;
+    border-radius: 20px;
+}
